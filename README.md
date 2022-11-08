@@ -51,7 +51,7 @@ We have therefore:
 $ 1 + \frac{F_2-1}{F_1 G_1} = \rho $
 
 The term $F_1 G_1$ is: 
-$F_1 G_1 =  \left( 1 + \frac{P_{n,1}}{G_1\cdot P_{n,A}} \right) \cdot G_1 = \frac{G_1\cdot P_{n,A} + P_{n,1}}{G_1\cdot P_{n,A}} \cdot G_1 = $
+$F_1 G_1 =  \left( 1 + \frac{P_{n,1}}{G_1\cdot P_{n,A}} \right) \cdot G_1 = \frac{G_1\cdot P_{n,A} + P_{n,1}}{G_1\cdot P_{n,A}} \cdot G_1 = \frac{P_{n,B}}{P_{n,A}} $
 
 The term $F_2-1$ is: 
 $F_2-1 = 1 + \frac{P_{n,2}}{P_{n,B}} -1  = \frac{P_{n,2}}{P_{n,B}}$
